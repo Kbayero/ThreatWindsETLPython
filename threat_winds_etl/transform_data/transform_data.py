@@ -1,6 +1,6 @@
 from ..entities import entities
 
-def convert_to_json(data):
+def convert_to_json_feodo(data):
     print("Creating entities...")
     list_objects = []
     
